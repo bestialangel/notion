@@ -1,0 +1,1268 @@
+<!doctype html>
+<html class="no-js" lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta name="description" content="A community for collaborative character creation and trading, worldbuilding and roleplay.">
+        <meta name="csrf-token" content="RI6zoFeG9BuAKOypjuNWfbFY3OOoWZzXMcBkSxoT">
+        <meta name="user-id" content="214206">
+                        <meta name="robots" content="noindex,nofollow,noimageindex">    <meta name="character-id" content="5530308" />
+    <meta name="character-fave-count" content="0" />
+        <meta name="character-fave" content="0" />
+            
+        <link rel="icon" href="https://toyhou.se/img/favicon.ico">
+
+                                    <title>    [OTHER] INFODUMP
+ on Toyhouse</title>
+                    
+        <!-- Styles -->
+        <link href="https://toyhou.se/css/main.css?cachebust=1792239600" rel="stylesheet">
+                <link href="https://toyhou.se/css/site_night.css?cachebust=1792239600" rel="stylesheet">
+        <meta name="layout-dark" content="1" rel="stylesheet">
+                                        </head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-MN97X5VXY2"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-MN97X5VXY2');
+    </script>
+    <body class="page-body page-body-character">
+        <!-- Container -->
+        <div id="container" class="page-container page-container-character">
+            <a id="top"></a>
+            <!-- Top Bar -->
+            <nav class="navbar navbar-toggleable-sm navbar-inverse header" data-topbar role="navigation" id="header">
+
+    <!-- Mobile header toggle -->
+        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#headerContent" 
+        aria-controls="headerContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <!-- End mobile header toggle -->
+
+    <!-- Site name -->
+    <a class="navbar-brand" href="https://toyhou.se">TOYHOU.SE</a>
+    <!-- End site name -->
+
+    <!-- Buttons -->
+    <div class="collapse navbar-collapse" id="headerContent">
+
+                    <!-- Left Nav Section -->
+            <ul class="navbar-nav mr-auto navbar-left">
+                <li class="nav-item">
+                    <a class="nav-link" href="https://toyhou.se/Cryptidteeth">
+                        <span class="fa fa-home"></span> Profile 
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="https://toyhou.se/~forums"> 
+                        <span class="fa fa-comments"></span> Forums 
+                    </a>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" data-target="#dropdownBrowse" > <span class="fa fa-fw fa-search"></span> Browse </a>
+                    <div class="dropdown-menu" id="dropdownBrowse">
+                        <h6 class="dropdown-header">Characters</h6>
+                        <a class="dropdown-item" href="https://toyhou.se/~browse/popular"><i class="fa fa-fire fa-fw mr-1"></i> Popular </a>
+                        <a class="dropdown-item" href="https://toyhou.se/~browse/feed"><i class="fa fa-binoculars fa-fw mr-1"></i> Feed </a>
+                        <a class="dropdown-item" href="https://toyhou.se/~browse/recent"><i class="fa fa-fw fa-clock mr-1"></i> Recent </a>
+                        <a class="dropdown-item" href="https://toyhou.se/~browse/search"><i class="fa fa-fw fa-search mr-1"></i> Search </a>
+                        <h6 class="dropdown-header">Browse</h6>
+                        <a class="dropdown-item" href="https://toyhou.se/~library/popular"><i class="fa fa-fw fa-book mr-1"></i> Literatures </a>
+                        <a class="dropdown-item" href="https://toyhou.se/~worlds"><i class="fa fa-fw fa-globe mr-1"></i> Worlds </a>
+                    </div>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" data-target="#dropdownCreate" > <span class="fa fa-fw fa-plus"></span> Submit </a>
+                    <div class="dropdown-menu" id="dropdownCreate">
+                        <a class="dropdown-item" href="https://toyhou.se/~characters/create"><i class="fa fa-fw fa-user mr-1"></i> Character </a>
+                        <a class="dropdown-item" href="https://toyhou.se/~bulletins/create"><i class="fa fa-fw fa-newspaper mr-1"></i> Bulletin </a>
+                        <a class="dropdown-item" href="https://toyhou.se/~images/upload"><i class="fa fa-fw fa-image mr-1"></i> Image </a>
+                                                <a class="dropdown-item" href="https://toyhou.se/~literatures/create"><i class="fa fa-fw fa-book mr-1"></i> Literature </a>
+                        <a class="dropdown-item" href="https://toyhou.se/~worlds/create"><i class="fa fa-fw fa-globe mr-1"></i> World </a>
+                    </div>
+                </li>
+                            </ul>
+            <!-- End Left Nav Section -->
+        
+            <!-- Right Nav Section -->
+            <ul class="navbar-nav navbar-right">
+                <li class="navbar-notifications">
+                    <div class="navbar-notifications-group hidden-md-down">
+                                                                                                                                                                                                                            <a href="https://toyhou.se/~inbox/activity" class="btn btn-primary" title="Activity">
+                                <span class="fi-star"></span>17129
+                            </a>
+                                                                            <a href="https://toyhou.se/~inbox/bulletins" class="btn btn-primary" title="Bulletins">
+                                <span class="fi-list"></span>235
+                            </a>
+                                                                            <a href="https://toyhou.se/~inbox/communications" class="btn btn-primary" title="Communications">
+                                <span class="fi-comments"></span>3
+                            </a>
+                                                                    </div>
+                </li>
+                
+                <!-- Collapsed notifs -->
+                                <li class="nav-item dropdown hidden-lg-up mb-2 mb-md-0">
+                                        <a class="dropdown-toggle btn btn-primary" data-toggle="dropdown" data-target="#dropdownNotifications" >
+                        <span class="fa fa-inbox mr-2"></span>17367
+                    </a>
+                    <div class="dropdown-menu dropdown-menu-right" id="dropdownNotifications">
+                                                                                                                                                <a href="https://toyhou.se/~inbox/activity" class="dropdown-item d-flex justify-content-between" title="Activity">
+                            <span class="dropdown-item-title"><span class="fi-star mr-2"></span>Activity</span>
+                            <span class="dropdown-item-count badge badge-pill badge-primary badge-notification">
+                                17129
+                            </span>
+                        </a>
+                                                                        <a href="https://toyhou.se/~inbox/bulletins" class="dropdown-item d-flex justify-content-between" title="Bulletins">
+                            <span class="dropdown-item-title"><span class="fi-list mr-2"></span>Bulletins</span>
+                            <span class="dropdown-item-count badge badge-pill badge-primary badge-notification">
+                                235
+                            </span>
+                        </a>
+                                                                        <a href="https://toyhou.se/~inbox/communications" class="dropdown-item d-flex justify-content-between" title="Communications">
+                            <span class="dropdown-item-title"><span class="fi-comments mr-2"></span>Communications</span>
+                            <span class="dropdown-item-count badge badge-pill badge-primary badge-notification">
+                                3
+                            </span>
+                        </a>
+                                                                    </div>
+                </li>
+                                <!-- End collapsed notifs -->
+
+                <li class="nav-item dropdown">
+                    <a href="https://toyhou.se/Cryptidteeth" class="nav-link dropdown-toggle nav-user-link" data-toggle="dropdown" data-target="#dropdownProfile" >
+                        <span class="display-user-tiny"><img src="https://f2.toyhou.se/file/f2-toyhou-se/users/Cryptidteeth?7" class="display-user-avatar" /><span class="display-user-username ">Cryptidteeth</span></span>
+                    </a>
+                    <div class="dropdown-menu dropdown-menu-right" id="dropdownProfile">
+                        
+                        <a class="dropdown-item" href="https://toyhou.se/Cryptidteeth">Profile</a>
+                        <a class="dropdown-item" href="https://toyhou.se/Cryptidteeth/characters">Characters</a>
+                        <a class="dropdown-item" href="https://toyhou.se/~messages/inbox">Inbox</a>
+                        <a class="dropdown-item" href="https://toyhou.se/~account">Settings</a>
+                        <div class="dropdown-divider"></div>
+
+                        <h6 class="dropdown-header">Manage</h6>
+                        <a class="dropdown-item" href="https://toyhou.se/~folders">Folders</a>
+                        <a class="dropdown-item" href="https://toyhou.se/~characters/manage-tags">Tags</a>
+                        <a class="dropdown-item" href="https://toyhou.se/~characters/manage">Characters</a>
+                        <a class="dropdown-item" href="https://toyhou.se/~characters/sort">Sort Characters</a>
+                        <a class="dropdown-item" href="https://toyhou.se/~characters/manage-designs">Designs</a>
+                        <a class="dropdown-item" href="https://toyhou.se/~images/manage-all">Images</a>
+
+                        <div class="dropdown-divider"></div>
+
+                        <a class="dropdown-item" id="logout-btn" href="#"> Logout </a>
+                    </div>
+                </li>
+            </ul>
+            <!-- End Right Nav Section -->
+            </div>
+</nav>
+    <div class="hidden-md-up nav-mobile-menu">
+        <button class="btn btn-outline-secondary nav-mobile-menu-toggle" data-toggle="offcanvas" data-target="#" >
+            Menu <span class="fa fa-caret-right" style=""></span>
+        </button>
+    </div>
+
+            <!-- Main -->
+            <div id="main" class="clearfix container-fluid main-container full-sidebar">
+
+                <div class="row row-offcanvas row-offcanvas-left" data-sticky-wrap>
+                                            <div class="col-md-3 col-lg-2 sidebar sidebar-offcanvas" id="sidebar">
+    <ul class="side-nav list-unstyled">
+        <li class="header">
+    <i class="fa fa-gift mr-2"></i>
+    Resource
+</li>
+<li class="user-name"><span class="display-user"><a href="https://toyhou.se/eskaep"><img src="https://f2.toyhou.se/file/f2-toyhou-se/users/eskaep?2" class="display-user-avatar" /><span class="display-user-username ">eskaep</span></a></span></li>
+
+    <li class="character-folder subheader">
+        <a href="https://toyhou.se/eskaep/characters/folder:2151943"><i class="mr-1 fa fa-folder"></i>STORAGE</a>
+    </li>
+
+<li class="character-name">
+    <span class="display-character"><a href="/4483933.other-infodump"><img src="https://f2.toyhou.se/file/f2-toyhou-se/characters/4483933?1596686402" class="mr-2" />[OTHER] INFODUMP</a></span>
+</li>
+
+    <div class="sidebar-tabs">
+            <li class="active  sidebar-tab sidebar-tab-5530308">
+            <a href="/4483933.other-infodump/5530308.names">
+                <i class="far fa-bookmark fa-fw sidebar-icon"></i>NAMES
+                            </a>
+        </li> 
+            <li class="  sidebar-tab sidebar-tab-10952710">
+            <a href="/4483933.other-infodump/10952710.personal-names">
+                <i class="far fa-bookmark fa-fw sidebar-icon"></i>PERSONAL NAMES
+                            </a>
+        </li> 
+            <li class="  sidebar-tab sidebar-tab-11029302">
+            <a href="/4483933.other-infodump/11029302.various-articles">
+                <i class="far fa-bookmark fa-fw sidebar-icon"></i>VARIOUS ARTICLES
+                            </a>
+        </li> 
+            <li class="  sidebar-tab sidebar-tab-11058162">
+            <a href="/4483933.other-infodump/11058162.myo-slots">
+                <i class="far fa-bookmark fa-fw sidebar-icon"></i>MYO SLOTS
+                            </a>
+        </li> 
+            <li class="  sidebar-tab sidebar-tab-11526937">
+            <a href="/4483933.other-infodump/11526937.preferences">
+                <i class="far fa-bookmark fa-fw sidebar-icon"></i>PREFERENCES
+                            </a>
+        </li> 
+            <li class="  sidebar-tab sidebar-tab-11057888">
+            <a href="/4483933.other-infodump/11057888.art-samples">
+                <i class="far fa-bookmark fa-fw sidebar-icon"></i>ART SAMPLES
+                            </a>
+        </li> 
+            <li class="  sidebar-tab sidebar-tab-11422521">
+            <a href="/4483933.other-infodump/11422521.design-samples">
+                <i class="far fa-bookmark fa-fw sidebar-icon"></i>DESIGN SAMPLES
+                            </a>
+        </li> 
+            <li class="  sidebar-tab sidebar-tab-38961079">
+            <a href="/4483933.other-infodump/38961079.queue">
+                <i class="far fa-bookmark fa-fw sidebar-icon"></i>QUEUE
+                            </a>
+        </li> 
+            <li class="  sidebar-tab sidebar-tab-11374321">
+            <a href="/4483933.other-infodump/11374321.end">
+                <i class="far fa-bookmark fa-fw sidebar-icon"></i>END
+                            </a>
+        </li> 
+        </div>
+
+<li class="divider sidebar-divider-collections"></li>
+
+<li class=" sidebar-li-gallery">
+    <a href="https://toyhou.se/4483933.other-infodump/5530308.names/gallery">
+        <i class="far fa-image fa-fw sidebar-icon"></i>Gallery
+            </a>
+</li>
+<li class=" sidebar-li-library">
+    <a href="https://toyhou.se/4483933.other-infodump/5530308.names/literatures">
+        <i class="fa fa-book fa-fw sidebar-icon"></i>Library
+            </a>
+</li>
+
+
+<li class="divider sidebar-divider-ownership"></li>
+
+<li class=" sidebar-li-ownership">
+    <a href="https://toyhou.se/4483933.other-infodump/5530308.names/ownership">
+        <i class="far fa-check-square fa-fw sidebar-icon"></i>Ownership
+    </a>
+</li>
+
+    <li class="divider sidebar-divider-mod"></li>
+    <li class="sidebar-li-report">
+        <a href="https://toyhou.se/~helpdesk?type=character&amp;subjectId=5530308" >
+            <i class="fa fa-exclamation-triangle fa-fw sidebar-icon"></i>Report
+        </a>
+    </li>
+    <li class="sidebar-li-block">
+        <a href="https://toyhou.se/4483933.other-infodump/5530308.names/block" th-modal-trigger>
+            <i class="fa fa-ban fa-fw sidebar-icon"></i>Block
+        </a>
+    </li>
+            </ul>
+</div>
+                                        <div class="col-sm-12 col-md-9 col-lg-10 content-main" id="content">
+                                                
+                                                    <div class="character-profile character-profile-tab ">
+    <div class="row profile-header">
+    <!-- Title -->
+    <div class="col-lg-12 col-12 profile-section profile-name-section">
+                    <div class="img-thumbnail">
+                <img src="https://f2.toyhou.se/file/f2-toyhou-se/characters/4483933?1596686402" class="profile-name-icon" />
+            </div>
+                <div class="img-thumbnail">
+            <img src="https://f2.toyhou.se/file/f2-toyhou-se/characters/5530308?1774863981" class="profile-name-icon" />
+        </div>
+        <div class="profile-name-info">
+            <h1 class="display-4">[OTHER] INFODUMP <span class="character-name-badge-tab">(<i class="far fa-bookmark mr-1"></i>NAMES)</span></h1>
+            <h2><span class="display-user"><a href="https://toyhou.se/eskaep"><i class="fi-torso user-name-icon"></i>eskaep</a></span></h2>
+        </div>
+    </div>
+    <!-- End title -->
+
+    <!-- Stats -->
+    <!-- End stats -->
+</div>
+    <!-- Fields -->
+        <!-- End fields -->
+
+    <!-- Page content -->
+            <div class="profile-section profile-content-section ">
+            <div class="profile-content-title">
+                                <h2>Profile</h2>
+                <hr>
+            </div>
+            <div class="profile-content-content user-content fr-view" >
+                <div style="position:absolute;top:0;bottom:0;left:0;width:100%;z-index:-1;"></div>
+
+<a class="btn btn-secondary rounded-0 px-3 py-2" style="position:fixed;bottom:10px;right:10px;z-index:1030;" href="#top">
+  <i class="fas fa-chevron-up"></i>
+</a>
+
+<div class="container" style="font-size:13px;letter-spacing:.03em;line-height:19px;max-width:840px;">
+  <div class="row justify-content-between p-3">
+  
+  
+  <div class="col-lg-3 px-0 px-md-1">
+  <div class="h-100">
+  <div class="sticky-top pt-3">
+  <div class="card px-3 pt-3 pb-2 rounded-0" style="line-height:17px;">
+    <p class="mb-1" style="font-family:times;font-weight:bold;"><strong>NOTES</strong></p>
+    <blockquote class="mb-2" style="padding:0px 0px 0px 10px;font-size:13px;">
+    I like collecting words... sometimes I'd also use them to name my characters. This is more for my personal use, but feel free to use them if you want to.
+    </blockquote>
+    <blockquote class="mb-2" style="padding:0px 0px 0px 10px;font-size:13px;">
+    If you do use them to name yours, I encourage you to do more research, as the information I put here is the bare minimum and some words may have different meanings / nuances depending on the context.
+    </blockquote>
+    <blockquote class="mb-2" style="padding:0px 0px 0px 10px;font-size:13px;">
+    If I happen to be wrong about the meaning of a specific word, feel free to let me know! I'd like to learn about them!
+    </blockquote>
+    <blockquote class="mb-0" style="padding:0px 0px 0px 10px;font-size:13px;">
+    <span class="text-muted">Last updated: 6 / 2026</span>
+    </blockquote>
+    <hr class="my-2 w-100" />
+    <p class="mb-1" style="font-family:times;font-weight:bold;"><strong>NAVIGATION</strong></p>
+    <blockquote class="mb-2" style="padding:0px 0px 0px 10px;font-size:13px;">
+      <ul class="fa-ul nav flex-column mb-0 ml-1" style="font-size:13px;line-height:14px;">
+        <li class="nav-item"><span style="font-size:4px;margin-right:4px;"><i class="fa-li fas fa-circle"></i></span><a href="#atoe" data-toggle="tab" class="active show" style="color:inherit;"><strong>A - E</strong></a></li>
+        <li class="nav-item"><span style="font-size:4px;margin-right:4px;"><i class="fa-li fas fa-circle"></i></span><a href="#ftoj" data-toggle="tab" class="show" style="color:inherit;"><strong>F - J</strong></a></li>
+        <li class="nav-item"><span style="font-size:4px;margin-right:4px;"><i class="fa-li fas fa-circle"></i></span><a href="#ktoo" data-toggle="tab" class="show" style="color:inherit;"><strong>K - O</strong></a></li>
+        <li class="nav-item"><span style="font-size:4px;margin-right:4px;"><i class="fa-li fas fa-circle"></i></span><a href="#ptot" data-toggle="tab" class="show" style="color:inherit;"><strong>P - T</strong></a></li>
+        <li class="nav-item"><span style="font-size:4px;margin-right:4px;"><i class="fa-li fas fa-circle"></i></span><a href="#utoz" data-toggle="tab" class="show" style="color:inherit;"><strong>U - Z</strong></a></li>
+      </ul>
+    </blockquote>
+  </div>
+  </div>
+  </div>
+  </div>
+  
+  
+  
+  
+  
+  
+  
+  <div class="col-lg-9 px-0 px-md-1">
+  <div class="tab-content pt-2 pt-lg-3">
+    
+    
+    
+    <div class="tab-pane fade active show" id="atoe">
+    <div class="card p-3 rounded-0">
+      
+      <p class="mb-1" style="font-family:times;font-weight:bold;"><strong>A</strong></p>
+      <blockquote class="mb-1" style="padding:0px 0px 0px 10px;font-size:13px;">
+        <ul class="pl-0 ml-3 mb-0" style="font-size:13px;">
+        <li>Ababil — (arabic) "a flock of birds", also means martin bird / swallow in some versions.</li>
+        <li>Abaddon — the destoyer or angel of bottomless pit; hell; the bottomless pit; a place of destruction. from the late latin "abaddōn", from the ancient greek ʾāβαδδών (abaddṓn), from the biblical hebrew אבדון (ʾăḇaddōn, literally "destruction, abyss"), from אבד (ʾāḇaḏ, "to be lost, to perish").</li>
+        <li>Abbandonato — (italian) "abandoned".</li>
+        <li>Abreuvoir — (french) "a watering place", "water fountain".</li>
+        <li>Abronia — a genus of plants commonly known as sand-verbenas.</li>
+        <li>Absatzzeichen — (german) pilcrow, paragraph mark, alinea mark.</li>
+        <li>Absquatulate — (verb) "leave abruptly".</li>
+        <li>Acacia — a large genus of shrubs and trees in the subfamily mimosoideae of the pea family fabaceae.</li>
+        <li>Acanthus — a genus containing plants used for ornament and in traditional medicine.</li>
+        <li>Acedia — from latin acēdia, and from greek ἀκηδία, "negligence", ἀ- "lack of" -κηδία "care". variously defined as a state of listlessness or torpor, of not caring or not being concerned with one's position or condition in the world.</li>
+        <li>Achlys — an ancient greek goddess who symbolizes the mist of death.</li>
+        <li>Achtung — (german) "attention", "warning".</li>
+        <li>Acid — a molecule or ion capable of donating a proton.</li>
+        <li>Acrasia — (archaic, rare) lack of self-control; excess, intemperance. also means irregular or unruly behavior. learned borrowing from late latin acrasia ("lack of temperance") and from its etymon ancient greek ᾰ̓κρᾱσῐ́ᾱ (akrāsíā, "bad mixture").</li>
+        <li>Adagio — "to play slowly", "at a slow tempo".</li>
+        <li>Adamastor — a mythological character created by poet luís de camões as a personification of the cape of good hope, symbolizing the dangers of the sea and the formidable forces of nature challenged and ultimately overcome by the portuguese during the age of discovery.</li>
+        <li>Adhafera — zeta leonis, a third-magnitude star in the constellation of leo, the lion.</li>
+        <li>Adiemus — resembles the latin word "adeamus", meaning "let us approach" (or "let us submit a cause to a referee").</li>
+        <li>Adon — literally means "lord." it has an uncertain etymology, although it is generally believed to be derived from the ugaritic "ad" (father). the pluralization of "adon" (my lord) is "adonai" (my lords). it is common religious practice to restrict the use of the word "adonai" to prayer only.</li>
+        <li>Aechmea — a genus of flowering plants in the family bromeliaceae (subfamily bromelioideae). the name comes from the greek "aichme", meaning "spear".</li>
+        <li>Aeneid — (latin) a latin epic poem that tells the legendary story of aeneas.</li>
+        <li>Aerangis — a genus of the orchid family (orchidaceae). derived from the greek words "aer" (air) and "angos" (urn), referring to the form of the lip.</li>
+        <li>Aeranthes — an orchid genus, means "aerial flower", because it grows high in the air.</li>
+        <li>Aeschylus — an ancient greek author of greek tragedy, and is often described as the father of tragedy. legend says he died from having a tortoise dropped onto his head by an eagle.</li>
+        <li>Affogato — italian coffee-based dessert.</li>
+        <li>Agapanthus — lily of the nile, derived from greek "agapē" (love) and "anthos" (flower).</li>
+        <li>Aggripa — a praenomen (personal name). exact meaning is unknown, speculated that it was originally used for a child who was born feet-first (a breech birth)- though it is probably a false etymology.</li>
+        <li>Aggrovigliare — (italian) transitive verb, "to tangle", "to muddle up", "to complicate".</li>
+        <li>Agno — from latin agnus, an obsolete and poetic form meaning "lamb".</li>
+        <li>Agon — a struggle or contest; conflict; especially between the protagonist and antagonist in a literary work.</li>
+        <li>Agrippina — mother of the roman emperor nero and a powerful influence on him during the early years of his reign; latin, "born feetfirst".</li>
+        <li>Ahasuerus / Ahasveros — a name applied in the hebrew bible to three rulers of ancient persia and to a babylonian official (or median king) in the book of tobit.</li>
+        <li>Ahitophel — a counselor of king david and a man greatly renowned for his wisdom. during absalom's attempt to usurp the throne, he deserted david and supported absalom, whom he then turned to as an advisor.</li>
+        <li>Aidos — the greek term for the great shame felt by a hero after failure.</li>
+        <li>Aiguillette — from french word "aiguille", "needle". in the context of butchery, means any meat cut into long, thin strips. in modern usage, an ornamental braided cord with decorative metal tips worn on uniforms.</li>
+        <li>Alabaster — a stone of great purity and whiteness, used for ornaments. the name is said to be from an egyptian town, alabastron, but nothing is known of this town nor the ultimate origin of the greek word.</li>
+        <li>Alazon — a stock character in greek drama, the alazon is a stupid braggart who is easily tricked by the clever eiron who tells the alazon what he wants to hear.</li>
+        <li>Alba — (provençal "dawn") a medieval lyric or morning serenade about the coming of dawn.</li>
+        <li>Alcateia — (portuguese) "wolfpack"; a pack of any fierce beast or being. borrowed from arabic al-qaṭīʕa, "herd".</li>
+        <li>Alcedine — of or related to kingfisher; a vivid green-blue-purple-black.</li>
+        <li>Alceste — the hero of molière's play "the misanthrope".</li>
+        <li>Alchiba — modern proper name of corvus constellation, from arabic al-ẖibāʾ, "tent".</li>
+        <li>Alcina — the personification of carnal pleasure in "orlando furioso".</li>
+        <li>Alcor — arabic name for 80 ursae majoris. from arabic al-khawār, "the faint one".</li>
+        <li>Algernon — referenced from "flowers for algernon", a short story by daniel keyes. derived from norman french sobriquet "aux gernons", meaning "with moustaches".</li>
+        <li>Alias — used to indicate that a named person is also known or more familiar under another specified name.</li>
+        <li>Alicia — variant of alice.</li>
+        <li>Allein — (german) "alone".</li>
+        <li>Almeisan — arabic name for gamma geminorum, "alhena". from arabic al-maysān.</li>
+        <li>Almodóvar — from arabic "al-mudawwar", meaning "the round", "the circular", referring to a hill, fort, or other topographic feature.</li>
+        <li>Alpenglow — a rosy or reddish glow seen during sunset or sunrise on the summits of mountains, especially snow-covered mountains on the opposite side of the sun.</li>
+        <li>Alptraum — (german) "nightmare".</li>
+        <li>Alrescha — modern proper name of alpha piscium in pisces constellation. derived from arabic al-rishā", "the cord".</li>
+        <li>Alstroemeria — peruvian lily, or lily of the incas.</li>
+        <li>Amanuensis — (from latin, ab manus, "by hand") a secretary, or scribe who takes dictation for an author who speaks aloud.</li>
+        <li>Amare — (italian) "love", "to love".</li>
+        <li>Amordeluso — (italian) rare surname, from amore ("love") + deluso ("disappointed").</li>
+        <li>Ana — (hebrew) "favored grace".</li>
+        <li>Analemma / Aналемма — a figure-eight curve that results when the sun's position in the sky is plotted out over the year at the same hour of mean solar time every day.</li>
+        <li>Anastasis — borrowed from ancient greek ἀνάστασις (anástasis, "resurrection"). a recovery from a debilitating condition, especially irradiation of human tissue; rebirth; (theology, christianity) resurrection.</li>
+        <li>Anathema — from latin "anathema" which means curse, person cursed, offering.</li>
+        <li>Anatra — (italian) "duck", refers to the bird or its meat.</li>
+        <li>Andante — (italian) "gently", "slowly", "at a walking pace".</li>
+        <li>Aniara — modern proper name of ursa major proposed by sweden, name of a spaceship in aniara, eponymous poem by harry martinson.</li>
+        <li>Anjing — (indonesian) "dog". keep in mind this word can also be perceived as an insult in this language.</li>
+        <li>Antanaclasis — a rhetorical device in which a phrase or word is repeatedly used, though the meaning of the word changes in each case.</li>
+        <li>Antídōron — (greek) from ἀντι- (anti-, "in exchange; in return; instead of") + δῶρον (dôron, "gift"). means return-gift; a present donated or offered in return or in exchange; compensation, remuneration, recompensation.</li>
+        <li>Anthimeria — figure of speech; conversion; using one part of speech as another.</li>
+        <li>Antiporta — (italian) "porch", "vestibule", an illustrated page preceding the frontispiece of a book.</li>
+        <li>Antonioni — from michelangelo antonioni, an italian director and filmmaker known for his movies that feature elusive plots, striking visual composition, and a preoccupation with modern landscapes.</li>
+        <li>Apastron — the point of greatest separation between a celestial object and the star which it orbits. from english apo- (prefix meaning "away from, separate") + ancient greek ᾰ̓́στρον (ástron, "fixed star"), modelled after aphelion.</li>
+        <li>Aporia — (greek) "impassable path", the deliberate act of talking about how one is unable to talk about something.</li>
+        <li>Apotheosis — the fact or action of becoming or making into a god; deification. glorification, exaltation; crediting someone or something with extraordinary power or status. borrowed from latn apotheōsis, from ancient greek ἀποθέωσις (apothéōsis).</li>
+        <li>Arakan / 阿羅漢 — the highest level of buddhist ascetic practice, or someone who has reached it. the term is often shortened to just rakan (羅漢).</li>
+        <li>Aramis / Aramitz — (french) "from aramits". also one of "the three musketeers" by alexander dumas.</li>
+        <li>Arariskein — (greek) from ἀραρίσκω, "to join", "to fit".</li>
+        <li>Archainbaud — from george archainbaud, a french-american film and television director.</li>
+        <li>Arche — from ancient greek ἀρχή (arkhḗ, literally "beginning, origin"). in philosophy, (often italicized), is the first principle of existing things in pre-socratic philosophy, initially assumed to be of water.</li>
+        <li>Archelaus — from ancient greek: ἀρχέλαος, archelaos; is a drama written and performed in macedonia by euripides honouring archelaus I of macedon on a par with king caranus. there is no doubt that euripides transformed caranus to archelaus (meaning "leader of the people") in the play, in an attempt to please archelaus I of macedon.</li>
+        <li>Arcturus — modern proper name of α Boötis in Boötes constellation. derived from the ancient greek "arktouros" (guardian of the bear), ultimately from "arktos" (bear) and "ouros" (watcher, guardian).</li>
+        <li>Arenosus — (latin) from "harenosus", means containing or full of sand, sandy; arenaceous.</li>
+        <li>Aristeia — (greek) "excellence", a scene in the dramatic conventions of epic poetry as in the Iliad, where a hero in battle has his finest moments (aristos: "best").</li>
+        <li>Arium — (latin) a suffix, often denoting a location or receptacle.</li>
+        <li>Arete — "excellence" of any kind, "moral virtue".</li>
+        <li>Artefice — (italian) "author", "creator".</li>
+        <li>Asmac — (azerbaijani) verb "to hang", "to be executed by hanging".</li>
+        <li>Aspartam — an artificial non-saccharide sweetener 200 times sweeter than sucrose, and is commonly used as a sugar substitute in foods and beverages.</li>
+        <li>Asri — (indonesian) "lush".</li>
+        <li>Astarte — a goddess considered to be the western counterpart of ishtar / inanna.</li>
+        <li>Asteismus — a sub-category of puns.</li>
+        <li>Asterismos — figure of speech; beginning a segment of speech with an exclamation of a word.</li>
+        <li>Astoria — (english) "like a hawk".</li>
+        <li>Astrazione — (italian) abstraction.</li>
+        <li>Ataraxia — "unperturbedness", "imperturbability", "equanimity", or "tranquility".</li>
+        <li>Atropos — "the unturnable", one of the three moirai, goddesses of fate and destiny alongside clotho and lachesis.</li>
+        <li>Aubade — a love poem or song welcoming or lamenting the arrival of the dawn.</li>
+        <li>Auriga — latin for "(the) charioteer". one of the 88 modern constellations; it was among the 48 constellations listed by the 2nd-century astronomer ptolemy.</li>
+        <li>Auxesis — another term for rhetorical climax.</li>
+        <li>Avalon — (latin) "the isle of fruit (or apple) trees".</li>
+        <li>Avenir — (french) "future".</li>
+        <li>Avvertenza — (italian) "caution", "warning".</li>
+        <li>Azadi — from classical persian آزادی (âzâdi), "freedom", "independence".</li>
+        <li>Azimuth — (arabic) as-sumūt, "the directions", the plural version of arabic noun as-samt "the direction"; is an angular measurement in a spherical coordinate system.</li>
+        <li>Azov — sea of northern arm of the black sea, in southeast europe.</li>
+        <li>Ārba'a — (arabic) "four".</li>
+        </ul>
+      </blockquote>
+      
+      <hr class="my-2 w-100" />
+      
+      <p class="mb-1" style="font-family:times;font-weight:bold;"><strong>B</strong></p>
+      <blockquote class="mb-1" style="padding:0px 0px 0px 10px;font-size:13px;">
+        <ul class="pl-0 ml-3 mb-0" style="font-size:13px;">
+        <li>Bagdemagus — a character in the arthurian legend, usually depicted as king of the land of gorre and a knight of the round table.</li>
+        <li>Balausta — (italian) from latin balaustium ("flower of the wild pomegranate", from ancient greek βαλαύστιον (balaústion).</li>
+        <li>Baragouin — (french) "pidgin", "unintelligible speech; gibberish; jargon". of debated origin, but probably of breton origin, from bara ("bread") + gwin ("wine").</li>
+        <li>Bathos — (greek) "depth", not to be confused with pathos, bathos is a descent in literature in which a poet or writer — striving too hard to be passionate or elevated — falls into trivial or stupid imagery, phrasing, or ideas.</li>
+        <li>Basilica — (roman architecture) secular buildings, used as law courts and markets, and for public assemblies.</li>
+        <li>Bellaluna — (italian) compound of bella ("nice, beautiful") + luna ("moon").</li>
+        <li>Belteshazzar — babylonian name of the biblical prophet daniel.</li>
+        <li>Belvedere — a structure (such as a cupola or summerhouse) designed to command a view.</li>
+        <li>Bereshith — (hebrew) "in the beginning"; the opening words of the torah. as a noun, the hebrew title of what protestant christian would call "genesis".</li>
+        <li>Biancalana — (italian) compound of bianca ("white") + lana ("wool").</li>
+        <li>Biancofiore — (italian) compound of bianco ("white") + fiore ("flower").</li>
+        <li>Birthday — the anniversary of the day on which someone is born.</li>
+        <li>Bivouac — unadapted borrowing from french bivouac (earlier biouac, bivac), from alemannic german biiwacht ("einforcements of guard", "town watch"), from bii- + wacht ("watch, guard"). means an encampment for the night (usually without tents or covering), or any temporary encampment.</li>
+        <li>Bonderup — refers to a lamp design created in 1968 by bonderup and thorup.</li>
+        <li>Bowman — an archer.</li>
+        <li>Brakhage — from stan brakhage, who is considered to be one of the most important figures in 20th-century experimental film. he created a large and diverse body of work, exploring a variety of formats, approaches and techniques that included handheld camerawork, painting directly onto celluloid, fast cutting, in-camera editing, etc.</li>
+        <li>Breviario — (italian) from breviario ("breviary"), perhaps a metonymic occupational surname for a priest, or a nickname for a very religious person.</li>
+        <li>Brume — borrowed from french "brume", from latin "brūma" (winter solstice; winter; winter cold). means mist, fog, vapor.</li>
+        <li>Brusco — (italian) originally a nickname for a rude or coarse person, from brusco ("abrupt, brusque").</li>
+        </ul>
+      </blockquote>
+      
+      <hr class="my-2 w-100" />
+      
+      <p class="mb-1" style="font-family:times;font-weight:bold;"><strong>C</strong></p>
+      <blockquote class="mb-1" style="padding:0px 0px 0px 10px;font-size:13px;">
+        <ul class="pl-0 ml-3 mb-0" style="font-size:13px;">
+        <li>Cabernet — referring to cabernet sauvignon, a hybrid of cabernet franc and sauvignon blanc, and one of the most widely recognized red wine grape varieties.</li>
+        <li>Cacciaguerra — (italian) verb-object compound, composed of caccia ("to hunt; to drive away") + guerra ("war").</li>
+        <li>Cadmium — a soft, malleable, bluish white metal. breathing high levels of cadmium can cause death and severe lung damage. may cause cancer.</li>
+        <li>Caesura — (in modern verse) a pause near the middle of a line; any interruption or break.</li>
+        <li>Calathea — a genus of flowering plant belonging to the family marantaceae. often called prayer plants.</li>
+        <li>Caledonia — latin name used by the roman empire to refer to the part of great britain.</li>
+        <li>Calendula — a genus of 15-20 species of plants in the daisy family asteraceae. the genus name is a modern latin diminutive of calendae, meaning "little calendar", "little clock" or possibly "little weather-glass".</li>
+        <li>Campanula — (latin) "little bell".</li>
+        <li>Cangiante — one of the canonical painting modes of the renaissance; i.e. one of the four modes of painting colours available to italian high renaissance painters. the word itself is the present participle of the italian verb cangiare ("to change").</li>
+        <li>Canopus — the brightest star in the southern constellation of carina and the second-brightest star in the night sky. named after canopus (kanōpos, kanōbos), a pilot from greek mythology, whose name is itself of uncertain etymology.</li>
+        <li>Capella — the brightest star in the constellation of auriga. means "small female goat" in latin, and is diminutive form of capra, "female goat".</li>
+        <li>Capita — plural of "caput". an individual person, as used in the phrase per capita.</li>
+        <li>Caravanserai — a roadside inn where travelers (caravaners) could rest and recover from the day's journey.</li>
+        <li>Carfentanil — analogue of the popular synthetic opioid analgesic fentanyl, and is one of the most potent opioids known (also the most potent opioid used commercially).</li>
+        <li>Carnemolla — (italian) compound of carne ("flesh") + molla ("soft, wet, damp").</li>
+        <li>Cartouche — an ornamental figure, often on an oval shield. in egyptology or hieroglyphs, an oval figure containing the characters of an important personal name, such as that of royal or divine people. borrowed from french "cartouche".</li>
+        <li>Castiglioni — (italian) "fortification", "small castle".</li>
+        <li>Catachresis — blatant misuse of words or phrases. e.g., using "militate" for "mitigate", "chronic" for "severe", "travesty" for "tragedy", etc. often used to convey extreme emotion or alienation. it is prominent in baroque literature and, more recently, in dadaist and surrealist literature.</li>
+        <li>Cavaldoro — (italian) from caval ("horse") + di ("of") + oro ("gold"), </li>
+        <li>Celbalrai — from arabic kalb ur-rāʿī, meaning "the shepherd's dog". refers to the beta ophiuchi.</li>
+        <li>Cellerage — the hollow area beneath a Renaissance stage. known in renaissance slang as "hell" and entered through a trapdoor called a "hellmouth."</li>
+        <li>Cento — a poem consisting only of lines from other poems. italian for "patchwork".</li>
+        <li>Cerulean — deep, blue-sky color.</li>
+        <li>Chanel — (french) "water pipe", "canal". tt comes from the latin word canalis, which also means "channel".</li>
+        <li>Chardonnay — a green-skinned grape variety used in the production of white wine.</li>
+        <li>Charlemagne — comes from the french charles-le-magne, meaning "charles the great".</li>
+        <li>Charlesworth — (old english) personal name "ceafl" (or from the old english word ceafl "jaw", here meaning "ravine") + "wor(dh)" (enclosure).</li>
+        <li>Chanson — "song", from latin cantio; is in general any lyric-driven french song.</li>
+        <li>Chelou — (french) "weird", "strange".</li>
+        <li>Chevrotain — small hornless ruminants native to tropical rainforests of south and southeast asia, and central and west africa; a mouse deer. borrowed from french "chevrotain", "chevroti" (ruminant of the family tragulidae), the diminutive of old french "chevrot" (young goat, kid).</li>
+        <li>Chiaroscuro — italian for "light-dark", in art, is the use of strong contrasts between light and dark, usually bold contrasts affecting a whole composition.</li>
+        <li>Chloranthus — a genus of flowering plants in the family chloranthaceae.</li>
+        <li>Chlorine — a chemical element and a respiratory irritant, and inhaling it may cause pulmonary edema.</li>
+        <li>Choronzon — a demon or devil that originated in writing with the 16th-century occultists edward kelley and john dee. believed to be the last great obstacle between the adept and enlightenment.</li>
+        <li>Chrestomathy — a collection of written passages, used to learn an unfamiliar language.</li>
+        <li>Chyron — genericization of the trademark "chyron", from "chiron" (centaur of greek mythology). in united states, can also refer to a set of graphics or words at the bottom of a television screen, sometimes unrelated to the current viewing content.</li>
+        <li>Cicero — comes from latin for chickpea, "cicer".</li>
+        <li>Cicerone — an old term for a guide, one who conducts visitors and sightseers to museums, galleries, etc., and explains matters of archaeological, antiquarian, historic or artistic interest.</li>
+        <li>Clafoutis — a dessert consisting of a layer of fruit (such as cherries) topped with batter and baked.</li>
+        <li>Clarion — a medieval brass instrument chiefly used as a battle signal; related to the trumpet, it had a narrow, straight pipe and a high-pitched, piercing sound.</li>
+        <li>Cleché — (heraldry) having ends which flare out (like a cross patté) before tapering back to a point (urdé).</li>
+        <li>Clerihew — named after its inventor; a four-line poem rhymed aabb.</li>
+        <li>Clow — (english) outfall; an outfall sluice for water from a tidal river after it has deposited its sediment on flooded land. can also mean a clove.</li>
+        <li>Cognac — a type of brandy, and after the distillation and during the aging process, is also called eau de vie.</li>
+        <li>Comte — french, catalan and occitan form of the word "count".</li>
+        <li>Concord — agreement or harmony between people or groups.</li>
+        <li>Conlacrimaris — second-person singular present passive indicative of conlacrimō, which means "to weep" in latin.</li>
+        <li>Constantine — (latin) a hypocoristic of the first names constans and constantius, both meaning "constant, steadfast" in latin. the names are the latin equivalents of the  bulgarian name "cтоян" and the greek name "eustáthios", meaning "the same", "not changing", "standing".</li>
+        <li>Conundrum — a confusing and difficult problem or question; a question asked for amusement, typically one with a pun in its answer; a riddle.</li>
+        <li>Corallo — (italian) "coral".</li>
+        <li>Cornelia — (irish) "strong willed", "wise".</li>
+        <li>Corpora — plural of "corpus", which in linguistic means a dataset consisting of natively digital and older, digitalized, language resources, either annotated or unannotated.</li>
+        <li>Corpus — the body of a human or animal especially when dead.</li>
+        <li>Corsair — borrowed from french "corsaire"; a french privateer, especially from the port of saint-malo. can also refer to privateer or pirate in general.</li>
+        <li>Coverture — from old french "coverture", from covrir ("to cover"); "concealing", "cover", "disguise", "veil".</li>
+        <li>Crete — the largest and most populous of the greek islands.</li>
+        <li>Cronus — the king of the titans and the god of time, in particular when viewed as a destructive, all-devouring force.</li>
+        <li>Crowea — a genus of small evergreen shrubs in the family rutaceae, sometimes known as waxflowers.</li>
+        <li>Cryptadia — (english, very rare) things to be kept secret.</li>
+        <li>Cryptomnesia — from crypto- (prefix meaning "hidden") + (a)mnesia, modelled after french cryptomnésie. means the phenomenon of the reappearance of a long-forgotten memory as if it were a new experience.</li>
+        </ul>
+      </blockquote>
+      
+      <hr class="my-2 w-100" />
+      
+      <p class="mb-1" style="font-family:times;font-weight:bold;"><strong>D</strong></p>
+      <blockquote class="mb-1" style="padding:0px 0px 0px 10px;font-size:13px;">
+        <ul class="pl-0 ml-3 mb-0" style="font-size:13px;">
+        <li>Dala / Dara — (javanese) "dove".</li>
+        <li>Dämon — (german) "demon", "fiend".</li>
+        <li>Darin — (greek) "gift".</li>
+        <li>Demian — titular character from herman hesse's book, "demian".</li>
+        <li>Demimonde — (french) "half-world", a group of people on the fringes of respectable society.</li>
+        <li>Dentamaro — (italian) perhaps a nickname from dente ("tooth") + amaro ("bitter, sour").</li>
+        <li>Deogratias — (italian) borrowed from latin deō grātiās ("thank god!").</li>
+        <li>Desiderato — (italian, adjective) "hoped-for, desired, longed for".</li>
+        <li>Despero — (esperanto) "deep despair". (latin, verb) "to have no hope of", "to despair of".</li>
+        <li>Dogma — any belief held unquestioningly and with undefended certainty.</li>
+        <li>Dolorosa — (latin) "sorrowful mother", used especially for depictions of virgin mary grieving over her dead son.</li>
+        <li>Doria — (greek) "of the sea".</li>
+        <li>Dreyer — nickname derived from german "drei" (three), middle high german "drī(e)", with the addition of the suffix -er.</li>
+        <li>Duranta — a genus of flowering plants in the verbena family, verbenaceae.</li>
+        <li>Duro — (italian) from duro ("hard"), is a nickname for a tough or unyielding man.</li>
+        </ul>
+      </blockquote>
+      
+      <hr class="my-2 w-100" />
+      
+      <p class="mb-1" style="font-family:times;font-weight:bold;"><strong>E</strong></p>
+      <blockquote class="mb-1" style="padding:0px 0px 0px 10px;font-size:13px;">
+        <ul class="pl-0 ml-3 mb-0" style="font-size:13px;">
+        <li>Edna — (hebrew) "pleasure".</li>
+        <li>Egeria — a large main-belt g-type asteroid, discovered by annibale de gasparis on november 2, 1850.</li>
+        <li>Eimin / 永眠 — "death", "eternal sleep". (verb) 永眠する means "to die", "to pass away".</li>
+        <li>Eisenstein — (german) topographic name for someone who lived by a place where iron ore was extracted or perhaps a habitational name from a place called for its iron works. (jewish ashkenazic) artificial compound of german "eisen" (iron) + "stein" (stone).</li>
+        <li>Elaine — (greek) "sun ray", "shining light"</li>
+        <li>Élan — (french) "energy", "enthusiasm"</li>
+        <li>Elfrida — derived from "Ælfþryð" (aelfthryth) meaning "elf-strength".</li>
+        <li>Eliezer — (tiberian) "help / court of el".</li>
+        <li>Elita / элита — "elite".</li>
+        <li>Eltanin — formal name of gamma draconis, a star in the northern constellation of draco. derived from the arabic at-tinnin "the great serpent".</li>
+        <li>Emmahaven — former name of teluk bayur port in indonesia during dutch colonialism era.</li>
+        <li>Emmanuel — (hebrew) "god is with us".</li>
+        <li>Ephemera — items of collectible memorabilia, typically written or printed ones, that were originally expected to have only short-term usefulness or popularity.</li>
+        <li>Epigone — a follower or disciple; an undistinguished or inferior imitator of a well known artist or their style. from french épigones, from latin epigonī, from ancient greek ἐπίγονοι (epígonoi), plural form of ἐπίγονος (epígonos, "offspring, descendant").</li>
+        <li>Eremanthus — a genus of plants belonging to the sunflower family.</li>
+        <li>Erigenia — also known as harbinger of spring or pepper and salt, is a perennial plant in the family apiaceae.</li>
+        <li>Erotes — plural of "eros" (love, desire), who as a singular deity has a more complex mythology.</li>
+        <li>Erythrina — a genus of flowering plants in the pea family, fabaceae. the generic name is derived from the greek word "erythros" (red), referring to the flower color of certain species.</li>
+        <li>Esau — (ancient greek), from the root "ash" meaning "to hurry". also from "asah" meaning "to cover".</li>
+        <li>Escritoire — from french "escrire", obsolete form of écrire + -oire, indicating a tool or object. a writing desk with a hinged door that provides the writing surface.</li>
+        <li>Espalier — borrowed from french "espalier", from italian "spalliera", from "spalla" (shoulder). in agriculture, is a latticework used to shape or train the branches of a tree or shrub into a two-dimensional ornamental or useful design, as along a wall or fence.</li>
+        <li>Ethylene — a colorless flammable gas with a faint "sweet and musky" odour when pure.</li>
+        <li>Eudaimonia — (greek) "happiness", "welfare", more accurate translations have been proposed to be "human flourishing", "prosperity" and "blessedness".</li>
+        <li>Exignotis — (italian) from latin ex ("from, of") + ignōtīs, dative plural of ignōtus ("unknown"). "from unknown".</li>
+        </ul>
+      </blockquote>
+      
+    </div>
+    </div>
+    
+    
+    
+    
+    <div class="tab-pane fade" id="ftoj">
+    <div class="card p-3 rounded-0">
+      
+      <p class="mb-1" style="font-family:times;font-weight:bold;"><strong>F</strong></p>
+      <blockquote class="mb-1" style="padding:0px 0px 0px 10px;font-size:13px;">
+        <ul class="pl-0 ml-3 mb-0" style="font-size:13px;">
+        <li>Falaguerra — (italian) "make war", "war maker".</li>
+        <li>Falda — (italian) layer, stratum, brim of a hat, tails of a coat, lower slope of a mountain, snowflake.</li>
+        <li>Fatum — (latin) "destiny", "fate", "lot".</li>
+        <li>Feldspar — a common raw material used in glassmaking, ceramics, and to some extent as a filler and extender in paint, plastics, and rubber.</li>
+        <li>Fermata — in music, is the holding of a note or rest for longer than its usual duration.</li>
+        <li>Fineanno — (italian) from fine ("end") + anno ("year"); "the end of the year".</li>
+        <li>Finem — accusative singular of "finis", usually used as end quotations. (in finem ― eternally; ad finem ― to the end; finem facio ― i cease).</li>
+        <li>Fischer — "fisherman".</li>
+        <li>Fomalhaut — formal name of piscis austrinus. derives from fom al-haut from scientific arabic "fam al-ḥūt" (al-janūbī) (the mouth of the (southern) fish) (literally, mouth of the whale), a translation of how ptolemy labeled it.</li>
+        <li>Forte — a thing at which someone excels.</li>
+        <li>Fortuny — (old french) "lucky".</li>
+        <li>Fotino — derives from the ancient greek "phôs", "pháos", "phōtós", "phōteinós", meaning "enlightened one, light, brilliant".</li>
+        <li>Franju — from georges franju, a french filmmaker. he is known for his uniquely poetic and visually striking style (his films were generally characterized by unforgettable images that owed a great deal to early cinema in general and german expressionism in particular).</li>
+        <li>Fraxinus — (latin) "ash tree", "ashen spear" or "javelin".</li>
+        <li>Frottola — italian secular song popular in the late 15th and early 16th centuries.</li>
+        </ul>
+      </blockquote>
+      
+      <hr class="my-2 w-100" />
+      
+      <p class="mb-1" style="font-family:times;font-weight:bold;"><strong>G</strong></p>
+      <blockquote class="mb-1" style="padding:0px 0px 0px 10px;font-size:13px;">
+        <ul class="pl-0 ml-3 mb-0" style="font-size:13px;">
+        <li>Gamchicoth — also spelled "agshekelot", "gog sheklah", "gha'agsheblah"; qliphoth associated with chesed on the kabbalistic tree of life. called the "disturbers", "breakers in pieces", "devourers".</li>
+        <li>Genera — a class of things that have common characteristics and that can be divided into subordinate kinds.</li>
+        <li>Gesamtkunstwerk — (german) literally "total artwork", frequently translated as "total work of art".</li>
+        <li>Gestaltzerfall — (german) "shape decomposition", a type of visual agnosia and is a psychological phenomenon where delays in recognition are observed when a complex shape is stared at for a while as the shape seems to decompose into its constituting parts.</li>
+        <li>Gienah — from arabic al-janāḥ meaning "the wing". an arabic name referring to two stars: gamma corvi and epsilon cygni.</li>
+        <li>Girasole — (italian) "sunflower".</li>
+        <li>Gioconda — (italian) "joyful", "happy", "delight". also another name for mona lisa, "la gioconda".</li>
+        <li>Godetia — older genus name for the satin flower.</li>
+        <li>Golachab — qliphoth associated with the sephiroth gevurah, name means the "burners with fire", or "burning bodies".</li>
+        <li>Gomeisa — from arabic al-ghumaişā' meaning "the bleary-eyed one". refers to beta canis minoris.</li>
+        <li>Graffias — (italian) "claws".</li>
+        <li>Graziaplena — (italian) borrowed from latin grātia ("grace") + plēna ("full"); part of the first line of the hail mary.</li>
+        <li>Guastadisegni — (italian) verb-object compound, composed of guasta ("to ruin, damage") + disegni ("drawings").</li>
+        <li>Guerra — (spanish) "war".</li>
+        <li>Gules — in heraldry, gules (/ˈɡjuːlz/) is the tincture with the colour red. it is one of the class of five dark tinctures called "colours".</li>
+        <li>Gyakusatsu / 虐殺 — "slaughter", "genocide", "atrocity".</li>
+        </ul>
+      </blockquote>
+      
+      <hr class="my-2 w-100" />
+      
+      <p class="mb-1" style="font-family:times;font-weight:bold;"><strong>H</strong></p>
+      <blockquote class="mb-1" style="padding:0px 0px 0px 10px;font-size:13px;">
+        <ul class="pl-0 ml-3 mb-0" style="font-size:13px;">
+        <li>Hainiwa / 灰庭 — consist of 灰 (hai) for "ash", 庭 (niwa) for "garden".</li>
+        <li>Hakumei / 薄明 — "twilight", "faint light".</li>
+        <li>Hamamelis — more known as witch hazels, is a genus of flowering plants in the family hamamelidaceae.</li>
+        <li>Harun — from arabic "hārūn" (هارون), most likely of egyptian origin, from ꜥḥꜣ rw, meaning "warrior lion".</li>
+        <li>Haruri / Ionocidium — a species of orchid.</li>
+        <li>Hasnamuss — from gurdijeff's beelzebub tales, used to refer to a type of person who gains happiness (in the form of fulfilling their personal ambitions) through sacrificing people and making others suffer.</li>
+        <li>Hatsuki / 晴月 — "clear moon", "clear and cloudless sky".</li>
+        <li>Hayashibara / 林原 — "groove", "forest".</li>
+        <li>Hellebore — a poisonous plant. its name originates from ancient greek word "helléboros", the common name for h.orientalis, constructed from "heleîn" (to injure) and "borá" (food).</li>
+        <li>Henningsen — (german) derived from "henneke", a diminutive of the enormously popular given name "johannes". the low german suffix -ing indicates "son of"; thus, the progenitor of the name was likely the son of someone who was known as henneke.</li>
+        <li>Henrietta — female form of "henry", from the germanic "heim" (home) and "ric" (power, ruler).</li>
+        <li>Hiera — (finnish) "grindstone".</li>
+        <li>Hieronimus — latin form of the ancient greek name "hierṓnymos", meaning "with a sacred name".</li>
+        <li>Hieros — (greek) "holy", "sacred".</li>
+        <li>Higure / 日暮れ — "sunset".</li>
+        <li>Hilal — (arabic) the crescent moon.</li>
+        <li>Himeros — (greek) "uncontrollable desire", the god of sexual desire or unrequited love. one of the erotes.</li>
+        <li>Hinoiri / 日の入り — "sunset".</li>
+        <li>Hitokiri / 人斬り — "assassination", "slaughter".</li>
+        <li>Hitoku / 秘匿 — "concealment".</li>
+        <li>Hitorikiri / 一人切り — "alone".</li>
+        <li>Hitsuzen / 必然 — "inevitability", "certainty".</li>
+        <li>Hofuru / 屠る — "slaughter", "beating or killing a person", "to defeat soundly".</li>
+        <li>Horologium — from latin hōrologium, the pendulum clock, from greek ὡρολόγιον, literally "an instrument for telling the hour". a constellation of six stars faintly visible in the southern celestial hemisphere.</li>
+        <li>Hyakunichisou / 百日草 — zinnia.</li>
+        </ul>
+      </blockquote>
+      
+      <hr class="my-2 w-100" />
+      
+      <p class="mb-1" style="font-family:times;font-weight:bold;"><strong>I</strong></p>
+      <blockquote class="mb-1" style="padding:0px 0px 0px 10px;font-size:13px;">
+        <ul class="pl-0 ml-3 mb-0" style="font-size:13px;">
+        <li>Iduma — latin form of greek "idouma" (red).</li>
+        <li>Igaku / 医学 — "medicine".</li>
+        <li>Ignis fatuus — from new latin ignis fatuus (literally "foolish fire"); refers to will o' wisp, but can also mean "a delusion" or "false hope".</li>
+        <li>Incantalupo — (italian) verb-object compound, composed of incanta ("to enchant") + lupo ("wolf").</li>
+        <li>Incerto — (italian) "uncertain", "dubious".</li>
+        <li>Incognito — a false or assumed identity.</li>
+        <li>Ingannamorte — (italian) verb-object compound, composed of inganna ("to deceive, sway") + morte ("death"), used as an apotropaic nickname intended to ward off evil.</li>
+        <li>Innamorato — (italian, noun) lover, sweetheart, (adjective) in love, smitten.</li>
+        <li>Insignia — a distinguishing mark or token of something.</li>
+        <li>Iocolano — italianized form of sicilian "juculanu" (joker).</li>
+        <li>Irene — a large main-belt asteroid, discovered by john russell hind on may 19, 1851.</li>
+        <li>Istantanea — (italian) "snapshot", "snap".</li>
+        <li>Ivan / Иван — "god is gracious"</li>
+        </ul>
+      </blockquote>
+      
+      <hr class="my-2 w-100" />
+      
+      <p class="mb-1" style="font-family:times;font-weight:bold;"><strong>J</strong></p>
+      <blockquote class="mb-1" style="padding:0px 0px 0px 10px;font-size:13px;">
+        <ul class="pl-0 ml-3 mb-0" style="font-size:13px;">
+        <li>Jacaranda — refers to jacaranda mimosifolia; pale purple, funnel-shaped flowers.</li>
+        <li>Jacobus — latinized form of jacob.</li>
+        <li>Jacoline — an alkaloid found in ragwort.</li>
+        <li>Jacquerie — from the jacquerie uprising of french peasants in 1358, from "jacques" (a derogatory nickname for peasants) + -erie; a violent revolt by peasants.</li>
+        <li>Jailyard — a yard adjoining a prison.</li>
+        <li>Janazah / Jenazah — from arabic "janāza", "funeral". a muslim funeral prayer; a bier or a coffin used to transport and bury the body of a dead person. in indonesian, it is also an euphemism for "corpse".</li>
+        <li>Jean Dupont — (french) the equivalent of "john doe" in english; a placeholder name.</li>
+        <li>Jettatura — from italian jettatura; (archaic) the evil eye.</li>
+        <li>Junonia — a taxonomic genus within the family nymphalidae of certain butterflies: the buckeyes, pansies or commodores.</li>
+        </ul>
+      </blockquote>
+      
+    </div>
+    </div>
+    
+    
+    
+    
+    <div class="tab-pane fade" id="ktoo">
+    <div class="card p-3 rounded-0">
+      
+      <p class="mb-1" style="font-family:times;font-weight:bold;"><strong>K</strong></p>
+      <blockquote class="mb-1" style="padding:0px 0px 0px 10px;font-size:13px;">
+        <ul class="pl-0 ml-3 mb-0" style="font-size:13px;">
+        <li>Kannon — from buddhist bodhisattva associated with compassion, guanyin.</li>
+        <li>Karla — (latin) "strong one".</li>
+        <li>Karesansui / 枯山水 — lit. "dry landscape". a japanese rock garden, often present in zen temples, and sometimes found in temples of other sects too.</li>
+        <li>Kastholm — refers to jørgen kastholm, a danish furniture designer, interior designer, and professor. his furniture design has appeared in several films and series, and has become part of permanent exhibitions at a number of museums.</li>
+        <li>Killman — a variation of kilman. for alternative meaning, take the word literally.</li>
+        <li>Kirengeshoma / 黄蓮華升麻 — ki-rengeshōma, a genus containing two species of plants in the hydrangea family. "ki" (yellow) and "rengeshōma" (a somewhat similar plant, the false anemone (anemonopsis)).</li>
+        <li>Kodokushi / 孤独死 — literally "lonely death", "dying alone" (especially of someone who lives alone and dies of natural causes at home without anyone knowing).</li>
+        <li>Kokkuri / こっくり — "to nod up and down". it is also the name of a japanese game and a form of divination.</li>
+        <li>Komon / 顧問 — "advisor", "consultant", also a type of kimono that has a pattern without a particular direction.</li>
+        <li>Kornephoros — formal name of beta herculis, a binary star and the brightest star in the northern constellation of hercules. derived from greek word which means "club bearer".</li>
+        <li>Kubraczek — (polish) diminutive of kubrak, means "jacket" or "spencer".</li>
+        <li>Kuchinashi / 梔子 — "no mouth", gardenia flower.</li>
+        <li>Kugaisou / クガイソウ — veronicastrum japonicum.</li>
+        <li>Kuon / 久遠 — "eternity".</li>
+        <li>Kuraimono / 暗い者 — "dark one".</li>
+        <li>Kyokkō / 極光 — "aurora".</li>
+        </ul>
+      </blockquote>
+      
+      <hr class="my-2 w-100" />
+      
+      <p class="mb-1" style="font-family:times;font-weight:bold;"><strong>L</strong></p>
+      <blockquote class="mb-1" style="padding:0px 0px 0px 10px;font-size:13px;">
+        <ul class="pl-0 ml-3 mb-0" style="font-size:13px;">
+        <li>Lacrimosa — (latin) "weeping", "tearful", also a name that derives from "our lady of sorrows", a title given to virgin mary.</li>
+        <li>Lacuna — in anatomy, a small opening; a small pit or depression, especially in bone. generally, a small blank space; a gap or vacancy; a hiatus. figuratively, any gap, break, hole, or lack in a set of things; something missing. learned borrowing from latin "lacūna" (a ditch, pit; a hollow, cavity; a gap, defect).</li>
+        <li>Lafayette — a surname or a toponym coming from the occitan words "la faieta" and that designates a beech forest.</li>
+        <li>Lála / ла́ла — (serbo-croatian) "tulip", from ottoman turkish "lâle", from persian "lâle".</li>
+        <li>Lāmentābilis — (latin) "mournful", "full of sorrow", "deplorable", "lamentable".</li>
+        <li>Lanius — largest genus of shrike birds. derived from the latin word for "butcher".</li>
+        <li>Laudanum — from latin "laudō" (I praise), or "ladanum" ("a gum resin"); means a tincture of opium, once widely used for various medical purposes and as a recreational drug.</li>
+        <li>Lavinia — in roman mythology, lavinia is the daughter of latinus and amata, and the last wife of aeneas.</li>
+        <li>Lebenswelt — (german) living environment. from leben ("life") + welt ("world"). in english and chiefly in the philosophy of edmund husserl, is the sum total of all immediate phenomena which constitute the world of an individual or of a corporate life; life-world.</li>
+        <li>Lediça — (old galician-portuguese) "great joy", "pleasure".</li>
+        <li>Legedermain — sleight of hand, magic trickery. from old french "léger de main" (literally "light of hand"), a phrase that meant "dexterous, skillful at fooling others (especially through sleights of hand").</li>
+        <li>Leggiadro — (italian, adjective) back-formation from "leggiadria" (loveliness, elegance). means "lovely", "pretty", "graceful".</li>
+        <li>Leitmotif / Leitmotiv — a "short, constantly recurring musical phrase" associated with a particular person, place, or idea.</li>
+        <li>Leschenaultia — a genus of plants in the family goodeniaceae.</li>
+        <li>Leschiutta — (italian) diminutive of friulian "lescje" (bait, lure).</li>
+        <li>Leukothea — a sea goddess in greek mythology.</li>
+        <li>Lieselotte — (german) variation of elizabeth, meaning "pledged to god" or "god is my oath".</li>
+        <li>Lindenbaum — (german) "tilia".</li>
+        <li>Lippa — (finnish) tip of a hat, visor, flap.</li>
+        <li>Lota — (english) a round water pot, typically of polished brass.</li>
+        <li>Lothar — from germany, "chlodochar" (famous army).</li>
+        <li>Loup-garou — from old french "leu garoul", a pleonastic compound of leu ("wolf") + garoul ("werewolf").</li>
+        <li>Lucerna — (czech) "lantern".</li>
+        <li>Lucerne — (old french) "lamp", "torch".</li>
+        <li>Ludovico — (italian) "famous fighter".</li>
+        </ul>
+      </blockquote>
+      
+      <hr class="my-2 w-100" />
+      
+      <p class="mb-1" style="font-family:times;font-weight:bold;"><strong>M</strong></p>
+      <blockquote class="mb-1" style="padding:0px 0px 0px 10px;font-size:13px;">
+        <ul class="pl-0 ml-3 mb-0" style="font-size:13px;">
+        <li>Maddox — "fortunate", "son of madoc".</li>
+        <li>Madrigal — a medieval short lyrical poem in a strict poetic form.</li>
+        <li>Magatsuhi / マガツヒ / 禍つ霊 — literally "spirit of calamity".</li>
+        <li>Magistretti — (italian) "little master".</li>
+        <li>Makigumo / 巻雲 — "cirrus cloud".</li>
+        <li>Malamisura — (italian) from "mala" (bad) + "misura" (measure).</li>
+        <li>Maldoror — character from comte de lautréamont"s "les chants de maldoror" (the songs of maldoror), a french poetic novel, or a long prose poem.</li>
+        <li>Malfatto — (italian) "badly made".</li>
+        <li>Malthus — (middle english) "malthouse".</li>
+        <li>Malus — from latin adjective, "bad", "evil", "wicked", "injurious", "destructive".</li>
+        <li>Mangiarotti — (italian) "rat eater".</li>
+        <li>Manon — "sea of bitterness", "exalted one", "star of the sea", "rebelliousness".</li>
+        <li>Mata — (indonesian) "eye".</li>
+        <li>Mattionata — (italian) a blow with a brick.</li>
+        <li>Mavet — from "sha'are mavet" (gates of death). one of the seven divisions of hell in hermetic qabalah.</li>
+        <li>Megitsune / メギツネ — "vixen".</li>
+        <li>Melchizedek — often interpreted to mean "the king of righteousness". the king of salem and priest of el elyon (often translated as "most high god") in hebrew bible.</li>
+        <li>Meraviglia — (italian) inherited from latin "mīrābilia". means wonder, astonishment, amazement, surprise; feeling of wonder.</li>
+        <li>Merlot — a dark blue-colored wine grape variety, that is used as both a blending grape and for varietal wines. the name merlot is thought to be a diminutive of "merle", the french name for the blackbird, probably a reference to the color of the grape.</li>
+        <li>Mesarthim — formal name of gamma arietis, a binary star in the northern constellation of aries. bayer erroneously explained as being the hebrew grammatical term "mᵉshārᵉthīm" (servants), and later scholars picked up on this term.</li>
+        <li>Miaplacidus — official name of beta carinae, the second-brightest star in the constellation of carina and one of the brightest stars in the night sky. real meaning remains vague, until it is surmised as a bilingual combination of arabic "miyāh" (waters) and latin "placidus" (placid).</li>
+        <li>Mignonette — (french) from "mignonnette", from "mignon" (dainty) + "ette" (diminutive suffix). refers to the plant reseda odorata or the greyish-grey color of its flowers.</li>
+        <li>Mikaela — (hebrew) female form of "michael" which means "who is like god".</li>
+        <li>Mildred — (old english) from "mild" (mild) + "þryð" (power, strength).</li>
+        <li>Minelauva — formal name of delta virginis, a star in the zodiac constellation of virgo. said to be derived from the arabic "min al-'awwā" (in the lunar mansion of "awwa" (a name of unknown meaning)).</li>
+        <li>Mirabile — (italian) "admirable".</li>
+        <li>Miron — another form of "myron", a sculptor whose name meant "myrrh, perfume" in ancient greek.</li>
+        <li>Miserere — (italian) borrowed from latin miserēre ("have pity"), the first word of the 51st psalm.</li>
+        <li>Misery — a cause or source of great distress or discomfort.</li>
+        <li>Mizore / 霙 — "sleet".</li>
+        <li>Mizoguchi / 溝口 — 溝 (mizo) means "ditch", "groove", "disagreement", 口 (kuchi) means "mouth", "opening". also refers to kenji mizoguchi, a japanese film director and screenwriter.</li>
+        <li>Moltisanti — (italian) compound of molti ("lots of") + santi ("saints"), perhaps a nickname for a particularly devout person.</li>
+        <li>Mormora — (italian) from the verb "mormorare" (to murmur, whisper), a nickname for a grumbling person.</li>
+        <li>Morriña — (galician) "longing", "nostalgia", "homesickness". the spanish form borrows from galician, has the meaning of "murrain", "nostalgia", and ultimately is from a form of latin "mori" (to die).</li>
+        <li>Mugen / 無間 — taken from 無間地獄, "mugenjigoku", the avici hell, the eighth and most painful of the eight hells in buddhism.</li>
+        <li>Muliphein — other name of gamma canis majoris, a star in the constellation of canis major. said to be derived from arabic "muħlifayn" (juror, jury?).</li>
+        <li>Murakumo / 叢雲 — "gathering clouds", "group of clouds".</li>
+        <li>Murciélago — (spanish) from old spanish mur ("mouse") + ciego ("blind"). means "bat", winged mammal.</li>
+        <li>Murnau — from friedrich wilhelm murnau, a german film director, producer and screenwriter. one of his acclaimed works is the film "nosferatu".</li>
+        <li>Murzim / Mirzam — from arabic ʼal-murzim / ʼal-mirzam which means "the herald". refers to the beta canis majoris.</li>
+        <li>Muspelheim — a realm of fire in greek myhtology. described as a hot and glowing land of fire, home to the fire giants, and guarded by surtr, with his flaming sword. the etymology is uncertain, but may come from "mund-spilli" (world-destroyers, wreck of the world).</li>
+        <li>Mitzi — (german) a diminutive of the female given name maria.</li>
+        </ul>
+      </blockquote>
+      
+      <hr class="my-2 w-100" />
+      
+      <p class="mb-1" style="font-family:times;font-weight:bold;"><strong>N</strong></p>
+      <blockquote class="mb-1" style="padding:0px 0px 0px 10px;font-size:13px;">
+        <ul class="pl-0 ml-3 mb-0" style="font-size:13px;">
+        <li>Nakaguro / 中黒 — literally "middle black"; is a middle dot • (typographical symbol used between parallel terms, names in katakana, etc.).</li>
+        <li>Nanten / 南天 — also known as heavenly bamboo or sacred bamboo, is a species of flowering plant in the family berberidaceae.</li>
+        <li>Naphthalene — an aromatic hydrocarbon comprising two fused benzene rings. found in cigarette smoke, car exhaust, and smoke from forest fires. used as an insecticide and pest repellent.</li>
+        <li>Narikami / 成上 — in context of shogi, is a promoted bishop. also means "upstart" and "come to fruition".</li>
+        <li>Natsujikan / 夏時間 — "daylight saving time".</li>
+        <li>Necrophagous — that which eats dead or decaying animal flesh.</li>
+        <li>Neuntöter — (german) "killer of nine", nickname for shrike bird.</li>
+        <li>Niemeyer — from middle low german "nie" (new) + meyer. a nickname for a newly arrived steward or tenant farmer.</li>
+        <li>Noema — the perceived portion of the noesis / noema duality; that which is perceived as it is perceived. from ancient greek νόημα (nóēma, "concept", "idea", "perception", "thought").</li>
+        <li>Noesis — the consciousness side to duality of perceiver and that which is perceived (noema). in greek philosophy, also means the exercise of reason. is a learned borrowing from ancient greek νόησις (nóēsis, "concept", "idea", "intelligence", "understanding").</li>
+        <li>Nosferatu — main antagonist and titular character of silent movie "nosferatu: symphony of horrors".</li>
+        <li>Nostos — (greek) a theme used in ancient greek literature, which includes an epic hero returning home by sea.</li>
+        <li>Notizia — (italian) "item of news", "piece of information".</li>
+        </ul>
+      </blockquote>
+      
+      <hr class="my-2 w-100" />
+      
+      <p class="mb-1" style="font-family:times;font-weight:bold;"><strong>O</strong></p>
+      <blockquote class="mb-1" style="padding:0px 0px 0px 10px;font-size:13px;">
+        <ul class="pl-0 ml-3 mb-0" style="font-size:13px;">
+        <li>Oculi — from noun "oculus", a round or eyelike opening or design, in particular.</li>
+        <li>Ogiel — outer form of gamaliel, one of the qliphoth in kabbalah. means "those who flee from god".</li>
+        <li>Oilam — (lusitanian) "sheep".</li>
+        <li>Oizys — the goddess of misery, anxiety, grief, and depression. her roman name is "miseria", from which the english word misery is derived.</li>
+        <li>Omen — an event regarded as a portent of good or evil.</li>
+        <li>Onigawara / 鬼瓦 — lit. "ogre tile". a special tile carrying the face of an ogre installed at the corners of a temple's roof, originally to protect it from evil influences, nowadays as a decoration. there may not be an ogre's face.</li>
+        <li>Orikami / 折神 — 折 is "opportunity", "chance", "fold", 神 is "god". a pun because the spelling for kami (god) and kami (paper) is the same and "paper" is distantly related to "origami". <span class="text-muted">it's pretty convoluted because i thought it myself sorry...</span></li>
+        <li>Oslo — (norway) "the meadow beneath the ridge".</li>
+        <li>Otogirisou / オトギリソウ / 弟切草 — "st.john's wort".</li>
+        <li>Ottava — from "ottava rima", a stanza form often used for longer poems, consisting of eight lines, usually in iambic pentameter.</li>
+        <li>Ozan — (turkish) "poet", "bard".</li>
+        </ul>
+      </blockquote>
+      
+    </div>
+    </div>
+    
+    
+    
+    
+    <div class="tab-pane fade" id="ptot">
+    <div class="card p-3 rounded-0">
+      
+      <p class="mb-1" style="font-family:times;font-weight:bold;"><strong>P</strong></p>
+      <blockquote class="mb-1" style="padding:0px 0px 0px 10px;font-size:13px;">
+        <ul class="pl-0 ml-3 mb-0" style="font-size:13px;">
+        <li>Padma — (sanskrit) "lotus".</li>
+        <li>Panzer — (german) "armour". derives through the french word "pancier" (breastplate), from latin "pantex" (belly).</li>
+        <li>Paracelsus — a swiss doctor, physician, and alchemist.</li>
+        <li>Paradox — a seemingly absurd or self-contradictory statement or proposition that when investigated or explained may prove to be well founded or true.</li>
+        <li>Paroemion — alliteration in which every word in a sentence or phrase begins with the same letter.</li>
+        <li>Paroxism — a period during the course of an illness when when symptoms worsen; a sudden attack of a disease symptom, such as a bout of coughing or a seizure.</li>
+        <li>Payne — (english, derived from france) variation of the name payen. can also mean "pain".</li>
+        <li>Pavor — (portuguese) "horror", "terror".</li>
+        <li>Peninsula — from paeninsula: "paene" (almost) and "insula" (island).</li>
+        <li>Penthos / Luctus — ancient greek personified spirit (daimon) of grief and lamentation.</li>
+        <li>Peralta — (latin) "high rock" or "high, elevated"; from "pietra" (rock) and "alta" (refers to being tall or big).</li>
+        <li>Phronesis — (greek) type of wisdom or intelligence relevant to practical action.</li>
+        <li>Pieta — (latin) "duty", "religiosity", "religious behavior", "loyalty", "devotion", "filial piety"; one of the chief virtues among the ancient romans.</li>
+        <li>Pietraforte — (italian) compound of pietra ("stone") + forte ("strong").</li>
+        <li>Pilum — a javelin commonly used by the roman army in ancient times.</li>
+        <li>Pirreca — (italian) from greek πυρράκης (pyrrákis, "red, ruddy").</li>
+        <li>Pizzicato — (italian) "pinched", "plucked", a playing technique that involves plucking the strings of a string instrument.</li>
+        <li>Pleaiades — (ancient greek) probably derives from "plein" (πλεῖν "to sail") because of the cluster's importance in delimiting the sailing season in the mediterranean sea.</li>
+        <li>Pomoc — (polish) "help".</li>
+        <li>Praedo — (latin) robber, plunderer, or someone who steals.</li>
+        <li>Procyon — the brightest star in the constellation of canis minor and usually the eighth-brightest star in the night sky. comes from the ancient greek "prokyon" (before the dog), since it precedes the "dog star" sirius as it travels across the sky due to earth's rotation.</li>
+        <li>Pronoia — borrowed from ancient greek πρόνοιᾰ (prónoiă, "foreknowledge, foresight; providence; form of land grant"). in psychology, means a belief (sometimes regarded as irrational) that people conspire to do one good.</li>
+        <li>Proserpina — roman goddess proserpina, the daughter of ceres and the queen of the underworld.</li>
+        <li>Pushka / Пушка — (russian) a gun or cannon, and used to characterize the russian tsar cannon.</li>
+        </ul>
+      </blockquote>
+      
+      <hr class="my-2 w-100" />
+      
+      <p class="mb-1" style="font-family:times;font-weight:bold;"><strong>Q</strong></p>
+      <blockquote class="mb-1" style="padding:0px 0px 0px 10px;font-size:13px;">
+        <ul class="pl-0 ml-3 mb-0" style="font-size:13px;">
+        <li>Quadrifoglio — (italian) "clover".</li>
+        <li>Quadriga — (greek) "four horses", a car or chariot drawn by four horses abreast. the word derives from the latin contraction of quadriiuga, from "quadri-" (four) and "iugum" (yoke).</li>
+        <li>Qualia — philosophical concept where the internal and subjective component of sense perceptions, arise from stimulation of the senses by phenomena.</li>
+        <li>Quentin — (french) derived from latin "quintinus", diminutive form of "quintus" (the fifth).</li>
+        </ul>
+      </blockquote>
+      
+      <hr class="my-2 w-100" />
+      
+      <p class="mb-1" style="font-family:times;font-weight:bold;"><strong>R</strong></p>
+      <blockquote class="mb-1" style="padding:0px 0px 0px 10px;font-size:13px;">
+        <ul class="pl-0 ml-3 mb-0" style="font-size:13px;">
+        <li>Reba — (hebrew) "fourth born".</li>
+        <li>Rebus — a puzzle in which words are represented by combinations of pictures and individual letters; for instance, apex might be represented by a picture of an ape followed by a letter x.</li>
+        <li>Reima / 醴間 — meaning changes depending on the character used. 醴 (rei) is "sweet sake", 間 (ma) is "gap, negative space" - could mean "room for relaxation", "room for sweet sake".</li>
+        <li>Reimei / 黎明 — "dawn"</li>
+        <li>Renegade — a person who deserts and betrays an organization, country, or set of principles.</li>
+        <li>Requiem — an act or token of remembrance.</li>
+        <li>Rima Ariadaeus — a linear rille on the moon. It is named after the crater ariadaeus, which marks its eastern end. it is over 300 km long.</li>
+        <li>Requiescat — (latin) a part of the phrase "requiescat in pace" or "r.i.p.", meaning "may they rest in peace". otherwise, the individual word means "may they rest".</li>
+        <li>Roccale — (italian) "wolf collar"; also known as vreccale in italian and carlanca in spanish, is a type of dog collar designed to protect livestock guardian dogs from attack by wolves.</li>
+        <li>Rocchetto — spool (of thread, or of a fishing rod); (clothing, roman catholicism) rochet (garment worn over the choir cassock by cardinals, bishops and certain other dignitaries).</li>
+        <li>Rondinella — an italian wine grape variety.</li>
+        <li>Rorschach — (early german) "röhr" (reeds) + "schachen" (lakeside).</li>
+        <li>Rosella — a genus of broad-tailed parrots endemic to australasia.</li>
+        <li>Rossellini — from the italian word "rosso", which comes from the latin words "rubius" and "rossius", which mean "red". also refers to roberto rossellini, an italian film director, producer, and screenwriter. he was one of the most prominent directors of the italian neorealist cinema.</li>
+        <li>Rotanev — the name appeared in piazzi's palermo star catalogue in 1814, added by niccolò cacciatore as a prank. "rotanev" is venator, the latin form of italian "cacciatore" (hunter), spelt backwards.</li>
+        <li>Rotring — (german) "red ring".</li>
+        <li>Roux — (french) "reddish brown".</li>
+        <li>Rum — a liqueur made by fermenting and distilling sugarcane molasses or sugarcane juice.</li>
+        <li>Ryōki / 猟奇 — "seeking the bizarre" (abnormal, grotesque, etc.)</li>
+        </ul>
+      </blockquote>
+      
+      <hr class="my-2 w-100" />
+      
+      <p class="mb-1" style="font-family:times;font-weight:bold;"><strong>S</strong></p>
+      <blockquote class="mb-1" style="padding:0px 0px 0px 10px;font-size:13px;">
+        <ul class="pl-0 ml-3 mb-0" style="font-size:13px;">
+        <li>Sadhi — (javanese) "bones".</li>
+        <li>Saffron — the most precious spices in the world, derived from the flower of crocus sativus, commonly known as the "saffron crocus".</li>
+        <li>Saikei / 栽景 — "planted landscape", "scenery of a garden", "sighting".</li>
+        <li>Saigo / 最期 — "death", "downfall", "collapse", "end of life". can also mean the extinction of a family. not to be confused with 最後 (saigo), which (although pronounced the same) means "end of something" instead of "end of life".</li>
+        <li>Sakujo / Sakuzyo / 削除 — "deletion", "elimination".</li>
+        <li>Saltire — (heraldry) an ordinary (geometric design) in the shape of an x. It usually occupies the entire field in which it is placed.</li>
+        <li>Samidare / 五月雨 — "early summer rain".</li>
+        <li>Samhain — gaelic halloween custom. according to irish mythology, samhain was a time when the "doorways" to the otherworld opened, allowing supernatural beings and the souls of the dead to come into our world; samhain "was essentially a festival for the dead".</li>
+        <li>Samyaza — means "the (or my) name has seen," "he sees the name," or "i have seen". moshe idel proposed that samyaza is the one who "gazes at heavens" or "gazes from heavens". also known as shamhazai, aza or ouza, is a fallen angel of apocryphal abrahamic traditions and manichaeism as the leader of the watchers.</li>
+        <li>Sangiovese — a red italian wine grape variety that derives its name from the latin "sanguis jovis" (the blood of jupiter).</li>
+        <li>Sanguedolce — (italian) a nickname from sangue (blood) + dolce (sweet).</li>
+        <li>Sania — based on moth subspecies, "thysania agrippina".</li>
+        <li>Sarabaite — a class of monk in catholic belief who dwelt in his own home, or in or near a city.</li>
+        <li>Satanasso — (italian) "devil", "fiend"; can be nickname for a particularly restless or turbulent person.</li>
+        <li>Satella — (latin) "star".</li>
+        <li>Sathariel — qliphoth associated with binah. it represent "concealment of god". the name is believed to be of babylonian origin and a combination of "shetar" and "el" (god) with the name meaning "side of god".</li>
+        <li>Saturnalia — from latin sāturnālia, a festival of the winter solstice; is a period or occasion of general license, in which the passions or vices have riotous indulgence; a period of unrestrained revelry.</li>
+        <li>Saxifrage — a low-growing plant of poor  soils, bearing small white, yellow, or red flowers.</li>
+        <li>Scalpel — (english) a knife with a small, sharp, sometimes detachable blade, as used by a surgeon.</li>
+        <li>Schattendasein — (german) shadowy existence.</li>
+        <li>Shwarzwald — (german) from "schwarz" (dark) + "wald" (forest). an older general term for coniferous forest.</li>
+        <li>Sehnsucht — (german) "longing", "desire", "yearning", or "craving". some psychologists use the word to represent thoughts and feelings about all facets of life that are unfinished or imperfect, paired with a yearning for ideal alternative experiences.</li>
+        <li>Serapel — "harab serapel" or "a'arab zaraq" is a qliphoth associated with netzach. it translates as "the ravens of dispersion", "ravens of the burning god".</li>
+        <li>Sever — divide by cutting or slicing, especially suddenly and forcibly.</li>
+        <li>Shachath — from "be"er shachath", means "pit of corruption". one of the seven divisions of hell in hermetic qabalah.</li>
+        <li>Shòujì / 受祭 — (mandarin) verb, literary; "to receive a sacrifice".</li>
+        <li>Sierra — (spanish) "saw", "mountain range".</li>
+        <li>Sigma — the eighteenth star in a constellation.</li>
+        <li>Silas — (latin) "wood", "forest".</li>
+        <li>Sinai — from mount sinai in the bible. may have derived from the name of sin, the ancient mesopotamian religion deity of the moon.</li>
+        <li>Sinom — one of the structures / forms of javanese poetry (macapat), which portrays youth.</li>
+        <li>Sissa — an ancient indian brahmin mathematician and mythical figure known for inventing chaturanga, the indian predecessor of chess.</li>
+        <li>Somnio — (latin, present infinitive) "i dream".</li>
+        <li>Sonnet — from italian "sonetto" (little song).</li>
+        <li>Sottisier — from french sottisier, in literature is a compilation of banal, hackneyed or otherwise objectionable snippets of text from various authors. </li>
+        <li>Sparaxis — a genus of flowering plants called the harlequin flowers.</li>
+        <li>Spielzeug — (german) "toy".</li>
+        <li>Spitze — (german) "top".</li>
+        <li>Stanisław — (slavic) "to achieve glory or fame", "someone who achieves glory or fame". latinized form is "stanislaus".</li>
+        <li>Sternberg — (jewish ashkenazic) artificial name from german "stern" (star) + "berg" (mountain hill). also the name of an austrian-american filmmaker, josef von sternberg.</li>
+        <li>Sterrennacht — (dutch) "starry night", a reference to van gogh's painting "the starry night".</li>
+        <li>Sualocin — the name appeared in piazzi's palermo star catalogue in 1814, added by niccolò cacciatore as a prank. "sualocin" is nicolaus, the latin form of italian "niccolò" (nicholas), spelt backwards.</li>
+        <li>Sūji / Suzi / 数字 — "figure", "digit".</li>
+        <li>Surya — (sanskrit) "sun", "sun god".</li>
+        <li>Suther — (verb, archaic) the sighing sound of the wind through trees. (surname, germany) "from the south" or referring to a "south clearing".</li>
+        <li>Sybarite — from from latin "sybarīta" + english "-ite", a person devoted to luxury and pleasure; a hedonist.</li>
+        <li>Syrah — also known as shiraz, is a dark-skinned grape variety grown throughout the world and used primarily to produce red wine.</li>
+        </ul>
+      </blockquote>
+      
+      <hr class="my-2 w-100" />
+      
+      <p class="mb-1" style="font-family:times;font-weight:bold;"><strong>T</strong></p>
+      <blockquote class="mb-1" style="padding:0px 0px 0px 10px;font-size:13px;">
+        <ul class="pl-0 ml-3 mb-0" style="font-size:13px;">
+        <li>Taisen / 大戦 — "great war".</li>
+        <li>Taiyangshou / 太陽守 — formal name of χ ursae majoris, a star in the constellation of ursa major. derived from the word 太陽守, "tàiyángshǒu" (guard of the sun).</li>
+        <li>Tally — (english) a current score or amount.</li>
+        <li>Tampala — amaranthus tricolor</li>
+        <li>Tarantella — rapid dance in 6/8 time, originating in italy; the dance was believed to cure poisonous spider bites.</li>
+        <li>Tartarea — refer to "tartarean" (of tartarus), or "infernal".</li>
+        <li>Tartarus — the deep abyss that is used as a dungeon of torment and suffering for the wicked and as the prison for the titans.</li>
+        <li>Tasogare / 黄昏 / たそがれ — "dusk", "twilight". used to be pronounced as "tasokare?" / "誰そ彼?" (who is that?). because this expression is usually used at dusk, when it becomes impossible to discern one another’s faces, it became associated with dusk itself.</li>
+        <li>Tempranillo — a black grape variety widely grown to make full-bodied red wines in its native spain. Its name is the diminutive of the spanish "temprano" (early), a reference to the fact that it ripens several weeks earlier than most spanish red grapes.</li>
+        <li>Tetragrammaton — the four-letter hebrew theonym יהוה  (transliterated as YHWH or YHVH), the name of god in the hebrew bible.</li>
+        <li>Thagirion — "those who bellow grief and tears", qliphoth associated with tiferet. it means "the disputers" and "the painful movers".</li>
+        <li>Thaumiel — "duality in god", "twins of god", a qliphoth associated with keter. thaumiel represents the dual contending forces, struggling, and it is represented by two giant heads with bat-like wings.</li>
+        <li>Theuniel — outer form of samael, one of the qliphoth. means "the filthy wailing ones of god".</li>
+        <li>Thumos / Thymos — a greek word expressing the concept of "spiritedness" (as in "spirited stallion" or "spirited debate"). the word indicates a physical association with breath or blood and is also used to express the human desire for recognition. it is not a somatic feeling, as nausea and giddiness are.</li>
+        <li>Todesstrafe — (german) from "tod" (death) + -es- + "strafe" (penalty). means death penalty.</li>
+        <li>Todmorden — (german) "tod" and (french) "mort".</li>
+        <li>Topo — (italian) "mouse".</li>
+        <li>Totarbeiten — (german) to work (oneself) to death.</li>
+        <li>Tourneur — (french) "turner", "lathe operator".</li>
+        <li>Trasantiel — (extremaduran) "three days ago", in the day before the day before yesterday.</li>
+        <li>Trefoil — from latin "trifolium", from "tri-" (three) + "folium" (leaf).</li>
+        <li>Trouvaille — "lucky find".</li>
+        <li>Tsujigiri / 辻斬り / 辻斬 — literally "crossroads killing", "road killing"; a practice of killing a passerby in order to test a new sword.</li>
+        </ul>
+      </blockquote>
+      
+    </div>
+    </div>
+    
+    
+    
+    
+    <div class="tab-pane fade" id="utoz">
+    <div class="card p-3 rounded-0">
+      
+      <p class="mb-1" style="font-family:times;font-weight:bold;"><strong>U</strong></p>
+      <blockquote class="mb-1" style="padding:0px 0px 0px 10px;font-size:13px;">
+        <ul class="pl-0 ml-3 mb-0" style="font-size:13px;">
+        <li>Urami / 恨み — "resentment".</li>
+        <li>Usiel — outer form of golachab, one of the qliphoth. means "the ruins of god".</li>
+        </ul>
+      </blockquote>
+      
+      <hr class="my-2 w-100" />
+      
+      <p class="mb-1" style="font-family:times;font-weight:bold;"><strong>V</strong></p>
+      <blockquote class="mb-1" style="padding:0px 0px 0px 10px;font-size:13px;">
+        <ul class="pl-0 ml-3 mb-0" style="font-size:13px;">
+        <li>Venlafaxine — a type of antidepressant often used to treat depression.</li>
+        <li>Ventana — a light framework, made of timber, metal, or plastic, that contains glass or glazed opening frames and is placed in a wall or roof to let in light or air or to see through.</li>
+        <li>Verbena — a genus in the family verbenaceae.</li>
+        <li>Veritate — other name of 14 andromedae, a single, orange-hued giant star situated approximately 247 light-years away in the northern constellation of andromeda. name in latin means "where there is truth".</li>
+        <li>Verne — (old french) "alder grove".</li>
+        <li>Verona — (italian) "truth".</li>
+        <li>Vesuvia — of, relating to, or resembling the volcano "vesuvius".</li>
+        <li>Vince — (latin) "prevailing".</li>
+        <li>Vindemiatrix — formal name for ε virginis, a star in the zodiac constellation of virgo. name come from greek through the latin "vindēmiātrix", "vindēmiātor" meaning "the grape-harvestress".</li>
+        <li>Vitriol — bitterly abusive language.</li>
+        <li>Vivero — from latin "vīvārium", from "vīvō" (to live). means vivarium or nursery.</li>
+        <li>Vladimir — (slavic) "of great power", "ruler of the world", "ruler of peace", "famous power", "bright and famous".</li>
+        </ul>
+      </blockquote>
+      
+      <hr class="my-2 w-100" />
+      
+      <p class="mb-1" style="font-family:times;font-weight:bold;"><strong>W</strong></p>
+      <blockquote class="mb-1" style="padding:0px 0px 0px 10px;font-size:13px;">
+        <ul class="pl-0 ml-3 mb-0" style="font-size:13px;">
+        <li>Wasurenagusa / ワスレナグサ — forget-me-not.</li>
+        <li>Weltschmerz — (german) "world-weariness"; literally "world-pain", a literary concept describing the feeling experienced by an individual who believes that reality can never fulfill the expectation of the mind, resulting in a mood of weariness or sadness about life arising from the acute awareness of evil and suffering.</li>
+        <li>Werther — from goethe's novel, "the sorrows of young werther".</li>
+        <li>Wittgenstein — (german) "northern man", "man from the north", one who came from the castle wittgenstein in north rhine-westphallia. may also refer to the philosopher ludwig wittgenstein.</li>
+        </ul>
+      </blockquote>
+      
+      <hr class="my-2 w-100" />
+      
+      <p class="mb-1" style="font-family:times;font-weight:bold;"><strong>X</strong></p>
+      <blockquote class="mb-1" style="padding:0px 0px 0px 10px;font-size:13px;">
+        <ul class="pl-0 ml-3 mb-0" style="font-size:13px;">
+        <li>Xanthoria — taxonomic genus within the family teloschistaceae – sunburst lichens, wall lichens, orange wall lichens.</li>
+        <li>Xenia — (greek) from "xeníā", meaning "hospitality". in classical studies, means the concept of hospitality to strangers.</li>
+        <li>Xenon — the chemical element (symbol Xe) with an atomic number of 54. it is a colorless, odorless, unreactive noble gas, used notably in camera flash technology.</li>
+        <li>Xeros — (greek) root word "xerós", meaning "dry", "rough", "hoarse".</li>
+        <li>Xibalba — roughly translated as "place of fright", is the name of the underworld in maya mythology, ruled by the maya death gods and their helpers.</li>
+        <li>Ximenia — refers to taxonomic genus within the family olacaceae – various flowering plants. named in honour of francisco ximénez, a spanish priest.</li>
+        <li>Xoanon — (greek) from "xóanon", meaning a wooden statue used as a cult image in ancient greece.</li>
+        </ul>
+      </blockquote>
+      
+      <hr class="my-2 w-100" />
+      
+      <p class="mb-1" style="font-family:times;font-weight:bold;"><strong>Y</strong></p>
+      <blockquote class="mb-1" style="padding:0px 0px 0px 10px;font-size:13px;">
+        <ul class="pl-0 ml-3 mb-0" style="font-size:13px;">
+        <li>Yakan / 夜間 — "nighttime", "at night".</li>
+        <li>Yūdachi / 夕立 — "(sudden) evening shower".</li>
+        <li>Yuhi / 夕陽 — "setting sun".</li>
+        </ul>
+      </blockquote>
+      
+      <hr class="my-2 w-100" />
+      
+      <p class="mb-1" style="font-family:times;font-weight:bold;"><strong>Z</strong></p>
+      <blockquote class="mb-1" style="padding:0px 0px 0px 10px;font-size:13px;">
+        <ul class="pl-0 ml-3 mb-0" style="font-size:13px;">
+        <li>Zansatsu / 惨殺 — "slaughter".</li>
+        <li>Zarcone — (italian) from arabic زَرْقُون (zarqūn, "red lead, minium").</li>
+        <li>Zavijaya — from arabic zāwiyat ul-ʽawwāʼ meaning "the corner / the angle of the barking dog"; is a traditional name for beta virginis.</li>
+        <li>Zion — (in christian thought) the heavenly city or kingdom of heaven.</li>
+        <li>Zomiel — cortex of thagirion, one of the qliphoth. means "the revolt of god".</li>
+        <li>Zugzwang — from german zugzwang, from "zug" (move) + "zwang" (compulsion). a situation in which a person is forced to make a disadvantageous move. can also refer to the same thing in chess.</li>
+        <li>Zvonimir — (croatian) from "zvon" meaning "sound" or "bell" + "mir" signifying "peace" or "world"; "sound of peace", "peaceful sound."</li>
+        </ul>
+      </blockquote>
+      
+    </div>
+    </div>
+    
+    
+    
+  </div>
+  </div>
+  
+  
+  </div>
+</div>
+
+<div id="recentimg" style="background-color:var(--color-background);position:relative;z-index:1;height:80px;margin-left:-15px;margin-right:-15px;margin-bottom:-80px;"></div>
+            </div>
+        </div>
+        <!-- End page content -->
+    
+        <!-- Image gallery -->
+    <div class="profile-section profile-gallery-section">
+        <div class="profile-gallery-title">
+            <h2>Images<hr></h2>
+        </div>
+        <div class="profile-gallery-content">
+                    </div>
+    </div>
+    <!-- End image gallery -->
+    </div>
+                                            </div>
+                </div>
+            </div> 
+            <!-- End Main -->
+
+            <!-- Footer -->
+            <div id="footer" class="text-muted text-center p-3 footer" data-sticky-footer>
+    <div>
+                    <span class="mx-1">4694 Users Online</span>
+                <span class="mx-1">2:45 pm</span>
+    </div>
+    <div>
+        <span class="mx-2"><a href="https://toyhou.se/~about">About</a></span>
+        <span class="mx-2"><a href="https://toyhou.se/~faq/general">FAQ</a></span>
+                    <span class="mx-2"><a href="https://toyhou.se/~helpdesk">HelpDesk</a></span>
+                <span class="mx-2"><a href="https://toyhou.se/~rules">Rules</a></span>
+        <span class="mx-2"><a href="https://toyhou.se/~tos">TOS</a></span>
+                <span class="mx-2"><a href="https://toyhou.se/~browse/search">Search</a></span>
+                        <span class="mx-2 user-content-strip hide">
+            <a href="#" data-html-strip-toggle=".user-content" title="(Experimental) Toggle User HTML" class="tooltipster">
+                <i class="fa fa-code"></i>
+            </a>
+        </span>
+    </div>
+</div>
+        </div>
+        <!-- End Container -->
+
+        <!-- Modals -->
+        <div class="modal fade" id="modal-default" tabindex="-1" role="dialog" aria-labelledby="modal-default-label" aria-hidden="true">
+            <div class="modal-dialog modal-lg" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="modal-default-label"></h5>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <div class="modal-body"></div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="modal fade" id="user-character-selector" tabindex="-1" role="dialog" aria-labelledby="modal-test-label" aria-hidden="true">
+            <div class="modal-dialog modal-lg" role="document">
+                <div class="modal-content">
+                    <div class="modal-body row">
+                        <i class="fa fa-spinner fa-spin"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="modal fade" id="user-image-selector" tabindex="-1" role="dialog" aria-labelledby="modal-test-label" aria-hidden="true">
+            <div class="modal-dialog modal-lg" role="document">
+                <div class="modal-content">
+                    <div class="modal-body row">
+                        <i class="fa fa-spinner fa-spin"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Scripts -->
+        <script src="https://toyhou.se/js/sticky-footer.js"></script>
+        <script src="https://toyhou.se/js/site.js?cachebust=1792239600"></script>
+                                            <script>
+            var modalCount = 0;
+            $('.modal').on('show.bs.modal',function(e){
+                modalCount++;
+            });
+            $('.modal').on('hidden.bs.modal',function(e){
+                modalCount--;
+                if(modalCount > 0){
+                    e.stopPropagation();
+                    $('body').addClass('modal-open');
+                }
+            });
+        </script>
+        <script>
+            stickyFooter.init();
+            window.doFreezeframe = false;
+        </script>
+        <script src="https://toyhou.se/js/freezeframe.js?cachebust=1792239600"></script>
+    </body>
+</html>
